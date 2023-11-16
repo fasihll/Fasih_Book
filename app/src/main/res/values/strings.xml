@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fasih Book</string>
+    <string name="about_title">About</string>
+    <string name="about_username">Ach. Fasihul Lisan</string>
+    <string name="about_email">fasihullisan091966@gmail.com</string>
+    <string name="empty_data">Data Kosong</string>
+    <string name="welcome">Hello, Welcome to \nFasih Book!</string>
+    <string name="search_hint">Cari bukumu</string>
+    <string name="description_title">Description</string>
+    <string name="btn_readNow">Read Now</string>
+    <string name="home_page">Home</string>
+    <string name="favorite_page">Favorite</string>
+    <string name="about_page">About</string>
+</resources>
